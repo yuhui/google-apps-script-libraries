@@ -17,4 +17,5 @@ Complete instructions are available from [Google Developers](https://developers.
 
 ## Available libraries
 
+- `bigquery-helper`: run queries in BigQuery.
 - `mixpanel-tracker`: track usage to Mixpanel.
