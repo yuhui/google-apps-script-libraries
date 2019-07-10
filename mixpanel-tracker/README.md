@@ -2,7 +2,7 @@
 
 Track requests to Mixpanel from within Google Apps Script.
 
-Project key: `M2Yzdq9J0WSDE83F9hyHYjctILCH4r83t`
+Project key: `MzA_25Us6UUBddxtC-dyLwstILCH4r83t`
 
 Refer to the [repository README](https://github.com/yuhui/google-apps-script-libraries) for instructions to add this library to your script.
 

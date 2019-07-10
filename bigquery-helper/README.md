@@ -2,7 +2,7 @@
 
 Run queries in BigQuery without scripting for the API's nuances.
 
-Project key: `MG-UJ6t99zBUuQwj93KG-bstILCH4r83t`
+Project key: `MjmmwOcqTeIFoRwuA8KZV5MtILCH4r83t`
 
 Refer to the [repository README](https://github.com/yuhui/google-apps-script-libraries) for instructions to add this library to your script.
 
